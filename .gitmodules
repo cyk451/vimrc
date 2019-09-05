@@ -1,0 +1,3 @@
+[submodule "apiblueprint.vim"]
+	path = apiblueprint.vim
+	url = https://github.com/kylef/apiblueprint.vim.git
